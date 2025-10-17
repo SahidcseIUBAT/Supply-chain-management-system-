@@ -8,7 +8,7 @@ Features
 - Product and stock tracking  
 - Order placement and status updates  
 - Real-time database with Supabase  
-- Secure login system  
+- Secure login system   
 - Admin dashboard for complete control  
 
 Technologies Used
